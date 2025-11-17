@@ -1,0 +1,5 @@
+3
+Maria 8.0 7.0 10.0
+Paulo 10.0 10.0 8.0
+Jorge 10.0 10.0 10.0
+Programa finalizado.
